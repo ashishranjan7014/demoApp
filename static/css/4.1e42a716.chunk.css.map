@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/homepage.css"],"names":[],"mappings":"AAAA,YACI,yEAA4E,CAC5E,eAAgB,CAChB,uBAA2B,CAC3B,qBACJ","file":"4.1e42a716.chunk.css","sourcesContent":[".bgimg,html{\r\n    background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');\r\n    min-height: 100%;\r\n    background-position: center;\r\n    background-size: cover;\r\n}"]}
