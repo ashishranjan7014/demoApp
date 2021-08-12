@@ -2,7 +2,7 @@
   "name": "react",
   "version": "0.0.0",
   "private": true,
-  "homepage": "http://ashishranjan7014.github.io/demoApp",
+  "homepage": "https://ashishranjan7014.github.io/demoApp",
   "dependencies": {
     "axios": "0.19.0",
     "history": "4.9.0",
