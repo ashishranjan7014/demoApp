@@ -12,6 +12,7 @@ class Routes extends Component {
                 <Suspense fallback={<span> Wait a moment...</span>}>
                     <Route exact path="/" component={Homepage}></Route>
                     <Route exact path="/signup" component={SignUp}></Route>
+                    <Route exact path="/demoApp" component={Homepage}></Route>
                 </Suspense>
             </Router>
         );
