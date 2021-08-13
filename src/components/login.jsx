@@ -78,7 +78,7 @@ class LogIn extends Component {
                                                 </div>
                                             </div>
                                         </div>
-                                        <a href="/signup" className="float-right">Create an account </a>
+                                        <a href="/demoApp/signup" className="float-right">Create an account </a>
                                     </div>
                                     {message ? <p className="text-danger text-center">{message}</p> : null}
                                 </div>
