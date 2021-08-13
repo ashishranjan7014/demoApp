@@ -14,7 +14,7 @@ class Homepage extends Component {
         </div>
         <span style={{ float: "right" }}>
           <button type="button" className="btn btn-info btn-lg" >
-            <a href="/demoApp/signup">Signup</a>
+            <a href="https://ashishranjan7014.github.io/demoApp/signup">Signup</a>
           </button>
         </span>
         <div className="w3-display-middle">
