@@ -10,8 +10,8 @@ class Routes extends Component {
         return (
             <Router history={history}>
                 <Suspense fallback={<span> Wait a moment...</span>}>
-                    <Route exact path="/demoApp" component={Homepage}></Route>
-                    <Route exact path="/demoApp/signup" component={SignUp}></Route>
+                    <Route exact path={`${process.env.PUBLIC_URL}`} component={Homepage}></Route>
+                    <Route exact path={`${process.env.PUBLIC_URL}/signup`} component={SignUp}></Route>
                 </Suspense>
             </Router>
         );
